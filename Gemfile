@@ -84,3 +84,5 @@ group :development, :test do
 end
 
 gem "devise", "~> 4.8"
+
+gem "solargraph", "~> 0.47.2"
