@@ -88,3 +88,5 @@ gem "devise", "~> 4.8"
 gem "solargraph", "~> 0.47.2"
 
 gem "foreman", "~> 0.87.2"
+
+gem "rubocop", "~> 1.35"
