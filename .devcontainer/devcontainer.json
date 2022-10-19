@@ -15,7 +15,8 @@
 			"extensions": [
 				"rebornix.Ruby",
 				"esbenp.prettier-vscode",
-				"castwide.solargraph"
+				"castwide.solargraph",
+				"eamodio.gitlens"
 			]
 		}
 	},
