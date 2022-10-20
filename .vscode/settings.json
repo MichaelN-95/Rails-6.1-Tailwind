@@ -1,5 +1,4 @@
 {
-
   "ruby.format": "rubocop",
   "ruby.lint": {
     "reek": true,
@@ -17,7 +16,5 @@
   "solargraph.formatting": true,
   "solargraph.symbols": true,
   "solargraph.definitions": true,
-  "solargraph.references": true,
-  
+  "solargraph.references": true
 }
-
